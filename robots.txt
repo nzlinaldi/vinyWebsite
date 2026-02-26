@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.vinyacademy.com.br/sitemap.xml
+
+# Crawl-delay can be set if your host requires it (optional)
+# Crawl-delay: 10
