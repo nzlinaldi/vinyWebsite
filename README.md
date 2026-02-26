@@ -1,4 +1,4 @@
-# 🌟 Viny Mulher - Beauty School
+# Viny Mulher - Beauty School
 
 ![Website](https://img.shields.io/badge/Website-www.vinyacademy.com.br-FF1493?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
@@ -10,25 +10,25 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 This is a fully responsive website built using **HTML5**, **CSS3**, and **JavaScript**. Designed to present aesthetic courses, model program, and contact information with a modern and professional UI.
 
-## ✨ Features
+## Features
 
 | Feature | Description |
 |---------|-------------|
-| 🔰 **Responsive Layout** | Adapts perfectly to mobile, tablet, and desktop devices |
-| 🚀 **Performance** | Optimized loading with lazy loading and async scripts |
-| 🎯 **SEO Friendly** | Complete SEO structure with meta tags and schema.org |
-| 📱 **WhatsApp Integration** | Floating button and direct scheduling links |
-| 🔍 **Course Search** | Real-time search functionality for courses |
-| 🗺️ **Google Maps** | Embedded location map |
-| 📸 **Instagram Feed** | Embedded Instagram posts in about section |
-| ✨ **Animations** | Smooth scroll reveal animations |
-| ♿ **Accessibility** | ARIA labels and skip links for better accessibility |
+| **Responsive Layout** | Adapts perfectly to mobile, tablet, and desktop devices |
+| **Performance** | Optimized loading with lazy loading and async scripts |
+| **SEO Friendly** | Complete SEO structure with meta tags and schema.org |
+| **WhatsApp Integration** | Floating button and direct scheduling links |
+| **Course Search** | Real-time search functionality for courses |
+| **Google Maps** | Embedded location map |
+| **Instagram Feed** | Embedded Instagram posts in about section |
+| **Animations** | Smooth scroll reveal animations |
+| **Accessibility** | ARIA labels and skip links for better accessibility |
 
-## 🛠️ Technologies
+## Technologies
 
 - **HTML5** - Semantic markup and structure
 - **CSS3** - Modern styling with Flexbox and Grid
@@ -37,64 +37,37 @@ This is a fully responsive website built using **HTML5**, **CSS3**, and **JavaSc
 - **Google Maps API** - Location embedding
 - **Instagram Embed** - Social media integration
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 vinyWebsite/
-├── 📄 index.html          # Main HTML file
-├── 🎨 css/
+├── index.html          # Main HTML file
+├── css/
 │   └── style.css          # Main stylesheet
-├── ⚙️ js/
+├── js/
 │   ├── app.js             # Main JavaScript
 │   └── cursos-data.js     # Course data
-├── 🖼️ img/
+├── img/
 │   ├── image hero.png     # Hero image
 │   ├── Viny Logo.png      # Logo
 │   ├── whatsapp.png       # WhatsApp icon
 │   └── cursos/            # Course images
-├── 🤖 robots.txt          # Search engine directives
-└── 📑 sitemap.xml        # Site map
+├── robots.txt          # Search engine directives
+└── sitemap.xml        # Site map
 ```
 
 ---
 
-## 🚀 How to Run
-
-1. **Clone the repository**
-```
-bash
-git clone https://github.com/nzlinaldi/vinyWebsite.git
-```
-
-2. **Navigate to the directory**
-```
-bash
-cd vinyWebsite
-```
-
-3. **Open in browser**
-```
-bash
-# Simply open index.html in your browser
-# Or use a local server:
-python -m http.server 8000
-```
-
-4. **Access**
-```
-http://localhost:8000
-```
-
-## 🔗 Live Preview
+## Live Preview
 
 🌐 **Visit the website**: [www.vinyacademy.com.br](https://www.vinyacademy.com.br)
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-- 🔗 **GitHub**: [https://github.com/nzlinaldi](https://github.com/nzlinaldi)
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/enzo-linaldi-315204389/](https://www.linkedin.com/in/enzo-linaldi-315204389/)
+- **GitHub**: [https://github.com/nzlinaldi](https://github.com/nzlinaldi)
+- **LinkedIn**: [https://www.linkedin.com/in/enzo-linaldi-315204389/](https://www.linkedin.com/in/enzo-linaldi-315204389/)
 
 ---
 
